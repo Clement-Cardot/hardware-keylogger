@@ -1,0 +1,5 @@
+Bluetooth.c:17:9:isBluetoothBufferEmpty	4	static
+Bluetooth.c:21:6:getNextCharFromBluetoothBuffer	16	static
+Bluetooth.c:29:6:addToBluetoothBuffer	16	static
+Bluetooth.c:35:6:sendString	16	static
+Bluetooth.c:41:6:sendChar	16	static
